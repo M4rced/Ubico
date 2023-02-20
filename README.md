@@ -5,5 +5,6 @@
 + **Backend:** Java
 + **Framework Backend:** Spring Boot
 + **Framework frontend:** Angular
-+ **Database:** PostgreSQL
++ **Relational Database:** PostgreSQL 
++ **NoSQL Database:** MongoDB
 + **Architecture:** Microservicios
